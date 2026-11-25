@@ -5,3 +5,5 @@ I've been working on this for sometime and should be pretty handy since they don
 1. finding what used what, what works
 2. stopping the stupid searching for files over 19 disks
 3. other stuff i have forgotten
+
+See also qfc.tool since its related; but will be abstracted to other dialects - when i get time!
